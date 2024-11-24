@@ -49,7 +49,7 @@ O exercício 02 pede a criação de um código de árvore binária para que faç
 O exercício 03 pede também a criação de um código de árvore, mas neste caso uma árvore de palavras. sua implementação é basicamente a mesma da árvore anterior, mas aqui precisa-se implementar características de autocompletar/sugestões inteligentes, e esse é o maior no contexto deste exercício.
 </p>
 
-### Comentários
+## Comentários
 
 ### Exercício 01:
 <p align="justify">
