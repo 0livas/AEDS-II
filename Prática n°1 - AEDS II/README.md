@@ -23,9 +23,7 @@
 ### Sobre os Exercícios:
 <p align="justify">
 Neste período, somos apresentados a novas estruturas de dados, as árvores. No contexto desta estrutura, o professor da disciplina, Michel Pires, propoe alguns exercícios de fixação da matéria, principalmente da base - que é a arvore binária - para que possamos avançar posteriormente e entender melhor outros tipos de árvore, como a AVL, RedBLack e as inumeras variações da tipo B.
-</p>
 
-<p align="justify">
 Portanto, esta parte do reposítorio contém alguns comentários sobre implementações, possíveis dificuldades e tentativas na solução dos exercícios.
 </p>
 
