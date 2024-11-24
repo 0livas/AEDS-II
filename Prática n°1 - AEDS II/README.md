@@ -80,3 +80,26 @@ Os exercícios propostos proporcionaram uma base sólida para o entendimento e a
 
 No geral, a experiência proporcionada por esses exercícios foi enriquecedora e desafiadora. Ao longo do processo, foi possível não apenas entender os conceitos de árvores binárias, mas também explorar diferentes abordagens e identificar áreas para aprimoramento.
 </p>
+
+## Compilação e Execução:
+
+ Especificações da máquina em que o código foi rodado:
+  * Processador Intel Core i5, 10th Gen;
+  * Sistema Operacional Windows 11 Home;
+  * Terminal do WSL: Ubuntu 22.04.5;
+  * 16GB de RAM.
+
+| Comando                |  Função                                                                                           |                     
+  | -----------------------| ------------------------------------------------------------------------------------------------- |
+  |  `make clean`          | Apaga a última compilação realizada contida na pasta build.                                       |
+  |  `make`                | Executa a compilação do programa utilizando o g++, e o resultado vai para a pasta build.          |
+  |  `make run`            | Executa o programa da pasta build após a realização da compilação.                                |
+
+
+<br>
+
+## Contato:
+
+**Jader Oliveira Silva**  
+[![Static Badge](https://img.shields.io/badge/%7C%200livas-black?style=flat-square&logo=github)](https://github.com/0livas)
+[![Static Badge](https://img.shields.io/badge/%7C%20jaderoliveira28%40gmail.com%20%20-black?style=flat-square&logo=gmail)](mailto:jaderoliveira28@gmail.com)
